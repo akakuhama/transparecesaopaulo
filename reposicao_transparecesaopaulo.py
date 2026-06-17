@@ -47,7 +47,7 @@ receita = '/movimentosReceita'
 base_licitacao = 'http://gateway.apilib.prefeitura.sp.gov.br/sg/dom/v1'
 data_licitacao = f'dataPublicacao='
 caderno_licitacao = f'&caderno=11'
-token = {'Authorization': 'Bearer fdf5ce96-d46a-341e-aa21-0cf08e7b2b83'}
+token = {'Authorization': 'Bearer <TOKEN>'}
 licitacao = '/Licitacao?'
     
 
